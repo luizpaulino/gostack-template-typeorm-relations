@@ -23,7 +23,6 @@ export default class CreateCustomer1596247697836 implements MigrationInterface {
             type: 'varchar',
             isNullable: false,
             isUnique: true,
-            isPrimary: true,
           },
           {
             name: 'created_at',
